@@ -27,8 +27,11 @@ This project analyzes retail sales data using Python, Pandas, and Matplotlib.
 
 ## Files
 - Retail_Sales_Analysis_Preparation.ipynb
-- cleaned_retail_sales.csv
-- online_retail.csv
+- cleaned_retail_sales.csv()>25Mb)
+- online_retail.csv(>25Mb)
+
+## Notes
+The cleaned dataset (cleaned_retail_sales.csv) is approximately 54 MB in size and is not included in this repository due to GitHub file upload limitations.
 
 ## Author
 Somesh Gouda
