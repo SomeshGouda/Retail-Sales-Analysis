@@ -1,7 +1,7 @@
 # Retail Sales Analysis
 
 ## Project Overview
-This project analyzes retail sales data using Python, Pandas, and Matplotlib.
+This project analyzes retail sales data using Python, Num Py, Pandas, and Matplotlib.
 
 ## Dataset
 - online_retail.csv
